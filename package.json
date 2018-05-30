@@ -1,7 +1,7 @@
 {
   "name": "validation-station",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example repository for learning client side validation.",
   "main": "index.js",
   "scripts": {
     "start": "live-server ."
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuryaKrishnaMoorthy/validation-station.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SuryaKrishnaMoorthy/validation-station/issues"
+  },
+  "homepage": "https://github.com/SuryaKrishnaMoorthy/validation-station#readme"
 }
